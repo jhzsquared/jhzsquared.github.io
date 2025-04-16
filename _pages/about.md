@@ -33,6 +33,6 @@ I obtained my M.S. in Operations Research from MIT in 2019, and my B.S. in Opera
 My full CV is available upon request.
 
 ## Fun Facts
-\\
-\\
+
+<br />
 I love a bit of pain with (elevation) gain: mountain biking, skiing, and trail running. But on quieter days, you can also find me playing piano, reading, and gardening.
